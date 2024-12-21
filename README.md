@@ -9,7 +9,7 @@ unfinished and/or generally not ready to meet a wider audience.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstamborski&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tstamborski)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tstamborski&theme=radical)
 
 ## 🏆 GitHub Trophies
 
