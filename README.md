@@ -5,6 +5,14 @@ if you could **give a star to one of my projects** to others can find it more ea
 Other kinds of sharing or advertising my programs are very appreciated too, but just remember that some of them are
 unfinished and/or generally not ready to meet a wider audience.
 
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tstamborski&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tstamborski&theme=radical&no-frame=true&margin-w=15)
+
 --  
 Best Regards,  
 Tobiasz Stamborski
