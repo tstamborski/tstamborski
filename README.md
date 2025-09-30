@@ -10,7 +10,7 @@ I write code for fun and curiosity. My projects may be small, but they are creat
 
 ## 🌟 My Most Valuable Projects
 - [**Sprite Studio 64**](https://github.com/tstamborski/sprite-studio-64) – A native sprite editor for Commodore 64 in cyberpunk style  
-- [**Master of Sprites**](https://github.com/tstamborski/master-of-sprites) - Yet another sprite editor for Commodore 64. This time written in Java and worth to try as an alternative to SpritePad
+- [**Master of Sprites**](https://github.com/tstamborski/master-of-sprites) - Yet another sprite editor for Commodore 64 - this time written in Java and worth to try as an alternative to SpritePad
 - [**Happy Coloring Book**](https://github.com/tstamborski/happy-coloring-book) - A toy application for coloring images
 - [**Pixelart Icons**](https://github.com/tstamborski/pixelart-icons) – A set of my hand-drawn icons  
 
