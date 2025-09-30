@@ -45,3 +45,5 @@ I write code for fun and curiosity. My projects may be small, but they are creat
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tstamborski&theme=radical&no-frame=true&margin-w=15)
 
+---
+*Note: English is not my first language, so I sometimes use AI tools to help express my thoughts more clearly.*
