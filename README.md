@@ -15,21 +15,21 @@ I write code for fun and curiosity. My projects may be small, but they are creat
 - [**Pixelart Icons**](https://github.com/tstamborski/pixelart-icons) – A set of my hand-drawn icons  
 
 ## 🧑‍💻 What Technologies I Use
-- **Java** - Currently my most used language.
-- **C/C++** - Long time when I switched to Java but I still remember and think about going back to them
-- **x86 and MOS6502 assembly** - "Programming in assembly is good for the soul of programmer" 😄
-- **HTML5/CSS3/JavaScript** - Honestly I ain't the best web designer but I use sometimes for minor tasks
-- **Ant** - I think it's still good for small Java projects
-- **Maven** - I learn and use, because it can automatically handle dependencies and several different types of packaging
-- **Bash** - Linux shell which I use also on Windows to automate some tasks
+- **Java** - Currently my most used language
+- **C/C++** - I used them in the past; I still remember them and sometimes think of returning
+- **x86 and MOS6502 assembly** - I believe programming in assembly builds a deeper understanding of how computers work
+- **HTML5/CSS3/JavaScript** - I'm not the best web designer, but I sometimes use HTML/CSS/JavaScript for small tasks
+- **Ant** - I still find it useful for small Java projects
+- **Maven** - I’m learning and using Maven; it helps manage dependencies and supports different packaging types
+- **Bash** - Bash — I use it (even on Windows) for scripting and automating tasks
 
 ## 🧑‍🎓 What I am Learning
-- **Data structures and algorithms** - I already know the basics (big O notation, space and time complexity of algorithm, differences between ArrayList and LinkedList) but still a lot of learning too
-- **SOLID principles and design patterns in Java** - I make progress from one project to next, but according to ChatGPT reviews my code still has a lot of drawbacks (I know)
-- **HTML5/CSS3/JavaScript** - Still learning and I hope to create some really stunning home page one day
+- **Data structures and algorithms** - I already know the basics (big O notation, space and time complexity of algorithm, differences between ArrayList and LinkedList), but there’s still so much to learn
+- **SOLID principles and design patterns in Java** - I try to improve project by project; I know my code still has many issues, but I’m working on it
+- **HTML5/CSS3/JavaScript** - Still learning and I hope to build a really beautiful homepage someday
 - **Maven** - I have started to use and I learn some `pom.xml` complexities everyday ☺️
-- **SQL** - I know the CRUD basics and I am going to learn more
-- **ARM assembly language** - I think about writtening a simple operating system for Raspberry Pi but this will probably wait
+- **SQL** - I know CRUD and I want to learn more
+- **ARM assembly** - I daydream about writing a simple OS for Raspberry Pi someday, but that’s for the future
 
 ## 🌱 About Me
 - Amateur programmer, always learning  
