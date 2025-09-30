@@ -23,8 +23,8 @@ I write code for fun and curiosity. My projects may be small, but they are creat
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstamborski&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tstamborski&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstamborski&show_icons=true&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tstamborski&theme=radical&no-frame=true&margin-w=15)
 
