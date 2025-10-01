@@ -21,7 +21,7 @@ I write code for fun and curiosity. My projects may be small, but they are creat
 - **HTML5/CSS3/JavaScript** - I'm not the best web designer, but I sometimes use HTML/CSS/JavaScript for small tasks
 - **Ant** - I still find it useful for small Java projects
 - **Maven** - I’m learning and using Maven; it helps manage dependencies and supports different packaging types
-- **Bash** - Bash — I use it (even on Windows) for scripting and automating tasks
+- **Bash** - I use it (even on Windows) for scripting and automating tasks
 
 ## 🧑‍🎓 What I am Learning
 - **Data structures and algorithms** - I already know the basics (big O notation, space and time complexity of algorithm, differences between ArrayList and LinkedList), but there’s still so much to learn
