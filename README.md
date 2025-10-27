@@ -40,10 +40,9 @@ I write code for fun and curiosity. My projects may be small, but they are creat
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tstamborski&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstamborski&show_icons=true&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tstamborski&theme=radical&no-frame=true&margin-w=15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstamborski)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tstamborski)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tstamborski)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 *Note: English is not my first language, so I sometimes use AI tools to help express my thoughts more clearly.*
