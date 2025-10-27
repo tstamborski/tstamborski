@@ -41,8 +41,7 @@ I write code for fun and curiosity. My projects may be small, but they are creat
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstamborski&theme=juicyfresh)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tstamborski&theme=juicyfresh)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tstamborski&theme=juicyfresh&layout=donut)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tstamborski&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
