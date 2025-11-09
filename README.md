@@ -17,7 +17,7 @@ I write code for fun and curiosity. My projects may be small, but they are creat
 ## 🧑‍💻 What Technologies I Use
 - **Java** - Currently my most used language
 - **C/C++** - I used them in the past; I still remember them and sometimes think of returning
-- **x86 and MOS6502 assembly** - I believe programming in assembly builds a deeper understanding of how computers work
+- **x86 and 6502 assembly** - I believe programming in assembly builds a deeper understanding of how computers work
 - **HTML5/CSS3/JavaScript** - I'm not the best web designer, but I sometimes use HTML/CSS/JavaScript for small tasks
 - **Ant** - I still find it useful for small Java projects
 - **Maven** - I’m learning and using Maven; it helps manage dependencies and supports different packaging types
