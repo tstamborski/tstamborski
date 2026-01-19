@@ -39,9 +39,8 @@ I write code for fun and curiosity. My projects may be small, but they are creat
 > “Code is like art — you don’t need to be perfect, you just need to create.”
 
 ## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tstamborski&theme=juicyfresh)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tstamborski&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+![tstamborski's Stats](https://github-readme-stats.vercel.app/api?username=tstamborski&theme=default&show_icons=true&hide_border=true&count_private=false)
+![tstamborski trophies](https://github-profile-trophy.vercel.app/?username=tstamborski&theme=flat&row=1&column=6)
 
 ---
 *Note: English is not my first language, so I sometimes use AI tools to help express my thoughts more clearly.*
