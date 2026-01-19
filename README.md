@@ -40,7 +40,6 @@ I write code for fun and curiosity. My projects may be small, but they are creat
 
 ## 📈 GitHub Stats
 ![tstamborski's Stats](https://github-readme-stats.vercel.app/api?username=tstamborski&theme=default&show_icons=true&hide_border=true&count_private=false)
-![tstamborski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tstamborski&theme=default&hide_border=true)
 ![tstamborski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tstamborski&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ![tstamborski trophies](https://github-profile-trophy.vercel.app/?username=tstamborski&theme=flat&row=1&column=6)
